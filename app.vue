@@ -4,7 +4,7 @@
       :href="`https://www.facebook.com/sharer/sharer.php?u=${url}text=${title}`"
       target="_blank"
     >
-      hereee
+      sharee
     </a>
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
