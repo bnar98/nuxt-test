@@ -4,7 +4,7 @@
       :href="`https://www.facebook.com/sharer/sharer.php?u=${url}text=${title}`"
       target="_blank"
     >
-      sharee
+      SHAREE
     </a>
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
@@ -14,11 +14,11 @@
 useHead({
   title: "My App",
   meta: [
-    { name: "og:image", content: "https://www.tiwarnews.net/favicon.png" },
+    { name: "og:image", content: "https://www.tiwarnews.net/logo.png" },
     {
       name: "og:description",
       content:
-        "social-links is a set of social media share links working with React and Svelte",
+        ".... social-links is a set of social media share links working with React and Svelte",
     },
     { name: "og:title", content: "My amazing site. bnarrr" },
   ],
