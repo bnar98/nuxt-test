@@ -27,6 +27,6 @@ useHead({
     { name: "og:title", content: "My amazing site. bnarrr" },
   ],
 });
-const url = "https://nuxt-test-lovat-three.vercel.app/";
+const url = "https://nuxt-test-ktrx2ro6f-bnar98s-projects.vercel.app/";
 const title = "hh";
 </script>
