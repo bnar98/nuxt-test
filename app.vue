@@ -20,7 +20,7 @@ useHead({
       content:
         ".... social-links is a set of social media share links working with React and Svelte",
     },
-    { name: "og:title", content: "...My amazing site. bnarrr" },
+    { name: "og:title", content: "...My amazing FHFDH site. bnarrr" },
   ],
 });
 const url = "https://nuxt-test-lovat-three.vercel.app/";
